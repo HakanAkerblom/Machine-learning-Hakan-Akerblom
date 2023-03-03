@@ -13,6 +13,8 @@ black = "*"
 sklearn = "*"
 scikit-learn = "*"
 statsmodels = "*"
+tensorflow = "*"
+keras = "*"
 
 [dev-packages]
 
