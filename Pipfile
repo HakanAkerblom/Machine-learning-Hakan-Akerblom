@@ -15,6 +15,7 @@ scikit-learn = "*"
 statsmodels = "*"
 tensorflow = "*"
 keras = "*"
+nltk = "*"
 
 [dev-packages]
 
