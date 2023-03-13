@@ -16,6 +16,8 @@ statsmodels = "*"
 tensorflow = "*"
 keras = "*"
 nltk = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
 
 [dev-packages]
 
