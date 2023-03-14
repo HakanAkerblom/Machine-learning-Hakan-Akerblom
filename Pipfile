@@ -18,6 +18,8 @@ keras = "*"
 nltk = "*"
 fuzzywuzzy = "*"
 python-levenshtein = "*"
+"plotly.express" = "*"
+nbformat = "*"
 
 [dev-packages]
 
